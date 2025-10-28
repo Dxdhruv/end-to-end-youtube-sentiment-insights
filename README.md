@@ -274,10 +274,6 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-
-**Bappy** - *Initial work* - [entbappy73@gmail.com](mailto:entbappy73@gmail.com)
-
 ## 🙏 Acknowledgments
 
 - Reddit community for providing the training dataset
